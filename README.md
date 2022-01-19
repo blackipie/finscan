@@ -7,13 +7,13 @@ FINSCAN
 ```
  DEVELOPER: SHAFIN
  ```
-  ```
+ ```
  DOWNLOAD LINK:
  ```
  >  https://www.mediafire.com/file/l5iuh6v406u4u1q/Finscan.apk/file
  ```
 
-0. No ads,
+0.No ads,
  
 1.Camscanner, 
 
