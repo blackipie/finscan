@@ -12,8 +12,8 @@ FINSCAN
  ```
  >  https://www.mediafire.com/file/l5iuh6v406u4u1q/Finscan.apk/file
  ```
- 
-0.Free
+
+0. No ads,
  
 1.Camscanner, 
 
