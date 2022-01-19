@@ -19,6 +19,12 @@ FINSCAN
 3.Image to text, QR Generator,
 
 4.QR Reader.
+
+5.Doc Signature 
+
+6.Add Custom Watermark
+
+7.Make PDF with Password
  ```
   ```
 100% Safe and Trusted App
