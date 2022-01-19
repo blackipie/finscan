@@ -12,19 +12,27 @@ FINSCAN
  ```
  >  https://www.mediafire.com/file/l5iuh6v406u4u1q/Finscan.apk/file
  ```
+ 
+0.Free
+ 
 1.Camscanner, 
 
-2.PDF editor, 
+2.Edit PDF, 
 
-3.Image to text, QR Generator,
+3.Image to PDF,
 
-4.QR Reader.
+4.Share PDF with Password,
 
-5.Doc Signature 
+5.Image to text, 
 
-6.Add Custom Watermark
+6.QR Generator,
 
-7.Make PDF with Password
+7.QR Reader,
+
+8.Doc Signature,
+
+9.Add Custom Watermark
+
  ```
   ```
 100% Safe and Trusted App
