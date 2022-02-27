@@ -10,7 +10,7 @@ FINSCAN
  ```
  DOWNLOAD LINK:
  ```
- >  https://www.mediafire.com/file/4qfph8q7d6ih3fl/finscan.apk/file
+ >  https://www.mediafire.com/file/d5r3a6nm6tcqwxc/Finscan.apk/file
  ```
 
 0.No ads,
